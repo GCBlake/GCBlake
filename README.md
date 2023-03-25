@@ -1,8 +1,12 @@
 # 🏄‍♂️ Blake.S.Pattemore
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`CS Student & Retro Modder`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Heyya! I am second-year computer science student, I have a passion for retro gaming and console modding. While I enjoy working on various systems, my primary interest lies in Nintendo consoles and handhelds, although I have experience with Microsoft, Sony, and Sega systems as well. My interest in gaming technology began as a child with the SNES, and it grew exponentially with the release of the GameCube.
+
+At university, I'm concentrating on Java programming and full-stack development. I'm eager to learn and expand my knowledge, and I'm excited to see where my skills will take me in the future. 
+
+Follow me on Github to explore my projects and join me in pushing the boundaries of tech, both new and old. From console modding to full-stack development, let's innovate and create together.
    </p>
 
 # 🧰 Languages and Tools
