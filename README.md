@@ -2,6 +2,8 @@
 
 **`CS Student & Retro Modder`**
 
+[![Linkedin Badge](https://img.shields.io/badge/-Blake-blue?style=flat&logo=Linkedin&logoColor=white&link=[[[Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/)](https://www.linkedin.com/in/blake-pattemore/)]))]([Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/))
+
 Heyya! I am second-year computer science student, I have a passion for retro gaming and console modding. While I enjoy working on various systems, my primary interest lies in Nintendo consoles and handhelds, although I have experience with Microsoft, Sony, and Sega systems as well. My interest in gaming technology began as a child with the SNES, and it grew exponentially with the release of the GameCube.
 
 At university, I'm concentrating on Java programming and full-stack development. I'm eager to learn and expand my knowledge, and I'm excited to see where my skills will take me in the future. 
@@ -29,5 +31,3 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 <details>
  <summary><h1>👨‍💻 GCBlake's Coding Journey</h1></summary>
    My journey in the world of programming began in my early teenage years with a curiosity for taking apart consoles and handhelds, hardware modding them, and eventually moving on to software modding in my late teens. My passion for programming only continued to grow when I started my second year of university and began diving into a range of programming languages, including Java, Javascript, JavaFX, HTML, CSS, NodeJS, and React. In my free time, I've been expanding my knowledge even further by exploring C# and C++, and I've even dabbled with Unreal Engine 5. While I work predominantly in Windows, I am also comfortable working with Linux. I am currently in the process of applying for frontend development positions and am exploring different career paths. While I am unsure of my ultimate career goal, I am enthusiastic about continuing to enhance my skills and knowledge in the field. In particular, I have a strong interest in working for Nintendo and contributing to the development of their innovative and iconic gaming systems.
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Blake-blue?style=flat&logo=Linkedin&logoColor=white&link=[[[Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/)](https://www.linkedin.com/in/blake-pattemore/)]))]([Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/))
