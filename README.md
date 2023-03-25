@@ -2,8 +2,6 @@
 
 **`CS Student & Retro Modder`**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Blake-blue?style=flat&logo=Linkedin&logoColor=white&link=[[[Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/)](https://www.linkedin.com/in/blake-pattemore/)]))]([Your LinkedIn URL](https://www.linkedin.com/in/blake-pattemore/))
-
 Heyya! I am second-year computer science student, I have a passion for retro gaming and console modding. While I enjoy working on various systems, my primary interest lies in Nintendo consoles and handhelds, although I have experience with Microsoft, Sony, and Sega systems as well. My interest in gaming technology began as a child with the SNES, and it grew exponentially with the release of the GameCube.
 
 At university, I'm concentrating on Java programming and full-stack development. I'm eager to learn and expand my knowledge, and I'm excited to see where my skills will take me in the future. 
