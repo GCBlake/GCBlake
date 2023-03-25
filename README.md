@@ -38,7 +38,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Repo
 
-[panda_repo](https://github-readme-stats.vercel.app/api/pin/?username=GCBlake&repo=github-readme-stats&cache_seconds=86400&theme=panda)
+[panda_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=panda
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
