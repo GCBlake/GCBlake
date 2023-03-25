@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+# 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,7 +30,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 📊 Stats
+# 📊 Stats
 
 ![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=panda)
 
