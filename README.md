@@ -9,7 +9,7 @@ At university, I'm concentrating on Java programming and full-stack development.
 Follow me on Github to explore my projects and join me in pushing the boundaries of tech, both new and old. From console modding to full-stack development, let's innovate and create together.
    </p>
 
-# 🧰 Languages and Tools
+# 🤖 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
