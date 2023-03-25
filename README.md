@@ -1,4 +1,6 @@
-# 🏄‍♂️ Blake.S.Pattemore
+🏄‍♂️ Blake.S.Pattemore
+
+---
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
