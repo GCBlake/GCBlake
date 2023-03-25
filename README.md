@@ -23,7 +23,7 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 
 # 📊 Stats
 
-![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=defualt)
+![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=dark)
 
 
 <details>
