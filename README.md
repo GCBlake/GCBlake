@@ -1,3 +1,5 @@
+<img src='![banner](https://user-images.githubusercontent.com/128646190/227748416-02a92c39-2984-4735-a987-4476f5b9cd45.gif)' alt="banner"></img>
+
 <h1>🏋️‍♂️ Blake.S.Pattemore</h1>
 
 **`CS Student & Retro Modder`**
@@ -21,10 +23,19 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 <br />
 <br />
 
+# Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/blake-pattemore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Blake_Pattemore" height="30" width="40" /></a>
+<a href="https://www.instagram.com/blake.s.pattemore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Blake_Pattemore" height="30" width="40" /></a>
+</p>
+<br />
+
 # 📊 Stats
 
 ![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=dark)
-
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&show_icons=true&theme=dark)](https://github.com/GCBlake/github-readme-stats&theme=dark)
+</a>
 
 <details>
  <summary><h1>👨‍💻 GCBlake's Coding Journey</h1></summary>
