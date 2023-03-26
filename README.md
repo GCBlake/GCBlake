@@ -32,7 +32,7 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 
 ![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=dark)
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&show_icons=true&theme=dark)](https://github.com/GCBlake/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&layout=compact)](https://github.com/GCBlake/github-readme-stats)
 </a>
 
 <details>
