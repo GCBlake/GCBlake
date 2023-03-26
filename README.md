@@ -30,9 +30,10 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 
 # 📊 Stats
 
-![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=dark)
+![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=panda)
 </a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&layout=compact&theme=github_dark)
+<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&layout=demo&theme=panda)
 </a>
 
 <details>
