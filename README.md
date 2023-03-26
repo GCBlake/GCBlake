@@ -1,6 +1,6 @@
-<h1>🏋️‍♂️ Blake.S.Pattemore</h1>
+<h1>🏋️‍♂️ Blake.S.Pattemore</h1> 
 
-**`CS Student & Retro Modder`**
+**`CS Student & Retro Modder`** ![Profile Views](https://komarev.com/ghpvc/?username=GCBlake&color=blueviolet&style=plastic&label=Profile+Views)
 
 Heyya! I am second-year computer science student, I have a passion for retro gaming and console modding. While I enjoy working on various systems, my primary interest lies in Nintendo consoles and handhelds, although I have experience with Microsoft, Sony, and Sega systems as well. My interest in gaming technology began as a child with the SNES, and it grew exponentially with the release of the GameCube.
 
@@ -32,7 +32,7 @@ Follow me on Github to explore my projects and join me in pushing the boundaries
 
 ![GCBlake's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCBlake&show_icons=true&theme=dark)
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&layout=compact)](https://github.com/GCBlake/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GCBlake&layout=compact&theme=github_dark)
 </a>
 
 <details>
