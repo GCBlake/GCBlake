@@ -1,5 +1,3 @@
-<img src='![banner](https://user-images.githubusercontent.com/128646190/227748416-02a92c39-2984-4735-a987-4476f5b9cd45.gif)' alt="banner"></img>
-
 <h1>🏋️‍♂️ Blake.S.Pattemore</h1>
 
 **`CS Student & Retro Modder`**
